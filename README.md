@@ -41,7 +41,15 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=armelingu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=fff&icon_color=00cfe5&bg_color=0,0c0931,1d1856,e80074,c200db&theme=graywhite" />
 </div>
   
-  
+ </td>
+<td valign="top">
+                
+ 
+ <div align="center">
+
+  ![Snake animation](https://github.com/juxxnn/juxxnn/blob/output/github-contribution-grid-snake.svg)
+
+</div> 
   
 
 
