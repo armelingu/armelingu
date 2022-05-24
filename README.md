@@ -47,7 +47,7 @@
  
  <div align="center">
 
-  ![Snake animation](https://github.com/armelingu/armelingu/blob/output/github-contribution-grid-snake.svg)
+  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 
 </div> 
   
