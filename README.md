@@ -41,20 +41,15 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=armelingu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=fff&icon_color=00cfe5&bg_color=0,0c0931,1d1856,e80074,c200db&theme=graywhite" />
 </div>
   
- </td>
+  </td>
 <td valign="top">
                 
  
  <div align="center">
 
-    github_user_name: ${{ armelingu }}
- 
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+  ![Snake animation](https://github.com/juxxnn/juxxnn/blob/output/github-contribution-grid-snake.svg)
 
-</div> 
-  
+</div>
 
 
   
